@@ -10,7 +10,7 @@ site: bookdown::bookdown_site
 
 This is some sample text that I am typing in here that is eventually going to be filled with links and will look pretty just like Chris' text. Though I don't expect I'll ever be able to get a picture in there but you never know. Does this thing have spellcheck?
 
-How do I embed a link? I embed it[ like this](https://bookdown.org/chris/naturehacks4life/). I am DOMINATING this thing.
+How do I embed a link? I embed it [like this](https://bookdown.org/chris/naturehacks4life/). I am DOMINATING this thing.
 
 Hah I think I just did it -- remember to use "visual something or other" as interface.
 
