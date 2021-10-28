@@ -8,14 +8,4 @@ site: bookdown::bookdown_site
 
 # What the *\$%* is "Spirituality"?!
 
-This is some sample text that I am typing in here that is eventually going to be filled with links and will look pretty just like Chris' text. Though I don't expect I'll ever be able to get a picture in there but you never know. Does this thing have spellcheck?
-
-How do I embed a link? I embed it [like this](https://bookdown.org/chris/naturehacks4life/). I am DOMINATING this thing.
-
-Hah I think I just did it -- remember to use "visual something or other" as interface.
-
-![NASA: The Sun](https://en.wikipedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%2527s_Solar_Dynamics_Observatory_-_20100819.jpg#/media/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA's_Solar_Dynamics_Observatory_-_20100819.jpg)
-
-This is another change just to see if the site can catch up to itself.
-
-![](images/Sue%20Headshot%20Harvard.jpeg)
+This is some sample text
