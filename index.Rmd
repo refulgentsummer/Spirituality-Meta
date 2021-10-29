@@ -8,4 +8,6 @@ site: bookdown::bookdown_site
 
 # What the *\$%* is "Spirituality"?!
 
-This is some sample text
+This is some sample text.
+
+This is sample text from Friday. Might this upload? or this?
